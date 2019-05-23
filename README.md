@@ -14,6 +14,7 @@
 <br>Sanitizar es eliminar todo elemento que sea perjudicial para la aplicación web alterando su funcionamiento.
 <br>
 <br>¿Para qué sirve una sesión?
+<br>Para que páginas distintas dentro de una aplicación web puedan seguir accediendo a las mismas variables.
 <br>
 <br>¿Qué es JavaScript?
 <br>Lenguaje de programación interpretado que se ejecuta del lado del cliente, además de permitir distintos elementos dentro de una página.
